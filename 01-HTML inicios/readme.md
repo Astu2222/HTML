@@ -1,4 +1,6 @@
-Ejemplo explicado
+Ejemplo explicado:
+
+<!-- 
 
 La <!DOCTYPE html>declaración define que este documento es un documento HTML5
 El <html>elemento es el elemento raíz de una página HTML.
@@ -7,6 +9,9 @@ El <title>elemento especifica un título para la página HTML (que se muestra en
 El <body>elemento define el cuerpo del documento y es un contenedor de todos los contenidos visibles, como encabezados, párrafos, imágenes, hipervínculos, tablas, listas, etc.
 El <h1>elemento define un encabezado grande
 El <p>elemento define un párrafo.
+
+-->
+
 
 
 ¿Qué es un elemento HTML?
@@ -32,6 +37,8 @@ El propósito de un navegador web (Chrome, Edge, Firefox, Safari) es leer docume
 Estructura de la página HTML
 A continuación se muestra una visualización de la estructura de una página HTML:
 
+<!--
+
 <html>
 
 <head>
@@ -50,6 +57,9 @@ A continuación se muestra una visualización de la estructura de una página HT
 </body>
 
 </html>
+
+-->
+
 
 Nota: El contenido dentro de la sección <body> se mostrará en un navegador. El contenido dentro del elemento <title> se mostrará en la barra de título del navegador o en la pestaña de la página.
 
